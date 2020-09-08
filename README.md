@@ -1,2 +1,2 @@
-# balmonarquitectura-github.io
+# balmonarquitectura.github.io
 Estudio de arquitectura Balmón
